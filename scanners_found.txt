@@ -1,1 +1,11 @@
 [Scan Attempts] 7143
+
+[Scan Origin Hosts]
+ 192.168.202.69
+. . . . . . .
+?
+
+[Scan Destination Hosts]
+ 192.168.28.253
+. . . . . . .
+?
